@@ -13,17 +13,6 @@ chmod +x script.sh # add to executable permission
 ./script.sh # exec script file
 ```
 
-## Mobile App Usage
-
-It is necessary to log in to the system via the mobile application with a username and password defined in the system.
-
-Username and password defined in the system:
-
-```
-userName = dogukaneren
-password = Deren.25
-```
-
 ## Assignment 2
 > This assignment aims to understand and implement access rights in a shell.
 
